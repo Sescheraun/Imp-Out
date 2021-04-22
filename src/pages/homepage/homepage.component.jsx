@@ -9,31 +9,31 @@ const HomePage = () => (
         <div className = 'directory-menu'>
             <div className = 'menu-item'>
                 <div className = 'content'>
-                    <h1 className = 'title'>Hats</h1>
+                    <h1 className = 'title'>Ships</h1>
                     <span className = 'subtitle'>Shop Now</span>
                 </div>
             </div>
             <div className = 'menu-item'>
                 <div className = 'content'>
-                    <h1 className = 'title'>Jackets</h1>
+                    <h1 className = 'title'>Droids</h1>
                     <span className = 'subtitle'>Shop Now</span>
                 </div>
             </div>
             <div className = 'menu-item'>
                 <div className = 'content'>
-                    <h1 className = 'title'>Shoes</h1>
+                    <h1 className = 'title'>Footwear</h1>
                     <span className = 'subtitle'>Shop Now</span>
                 </div>
             </div>
             <div className = 'menu-item'>
                 <div className = 'content'>
-                    <h1 className = 'title'>Womens</h1>
+                    <h1 className = 'title'>Weapons</h1>
                     <span className = 'subtitle'>Shop Now</span>
                 </div>
             </div>
             <div className = 'menu-item'>
                 <div className = 'content'>
-                    <h1 className = 'title'>Mens</h1>
+                    <h1 className = 'title'>Clothing</h1>
                     <span className = 'subtitle'>Shop Now</span>
                 </div>
             </div>
