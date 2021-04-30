@@ -5,58 +5,60 @@ const SHOP_DATA = [
       routeName: 'ships',
       items: [
         {
-          id: 1,
-          name: 'Brown Brim',
-          imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-          price: 25
+          id: 1
+          , name: 'Z-95 Headhunter'
+          //, imageUrl: '/images/ships/z95.png'
+          , imageUrl: 'https://i.pinimg.com/originals/35/6c/f8/356cf87a0e1ec66b6fd0a87392790021.png'
+          //, imageUrl: "/images/shop-img/hats/brown-brim.png"
+          , price: 45000
         },
         {
-          id: 2,
-          name: 'Blue Beanie',
-          imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
-          price: 18
+          id: 2
+          , name: 'Starwind Yacht'
+          , imageUrl: "https://static.wikia.nocookie.net/starwars/images/1/12/Starwindyacht.png"
+          , price: 1000000
         },
         {
           id: 3,
-          name: 'Brown Cowboy',
-          imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
-          price: 35
+          name: 'YG-4210',
+          imageUrl: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab940dbf-6b1c-43d5-9e49-aa8736340b2d/d893yo6-487c161f-41d3-476e-8233-ea130b276b4a.jpg/v1/fill/w_1600,h_873,q_75,strp/yg_4210_light_freighter_by_adamkop_d893yo6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD04NzMiLCJwYXRoIjoiXC9mXC9hYjk0MGRiZi02YjFjLTQzZDUtOWU0OS1hYTg3MzYzNDBiMmRcL2Q4OTN5bzYtNDg3YzE2MWYtNDFkMy00NzZlLTgyMzMtZWExMzBiMjc2YjRhLmpwZyIsIndpZHRoIjoiPD0xNjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.J0hrHqGIpcTZ7BpGNAg70XNJKdMff7ALOCObEtsbM-k',
+          price: 40000
         },
         {
           id: 4,
-          name: 'Grey Brim',
-          imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
+          name: 'Barloz',
+          imageUrl: 'https://i.redd.it/f8uex5log7q21.jpg',
           price: 25
         },
         {
           id: 5,
           name: 'Green Beanie',
-          imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
+          imageUrl: '/images/ships/err.png',
           price: 18
         },
         {
           id: 6,
           name: 'Palm Tree Cap',
-          imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
+          imageUrl: '/images/ships/err.png',
           price: 14
         },
         {
           id: 7,
           name: 'Red Beanie',
-          imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
+          imageUrl: '/images/ships/err.png',
           price: 18
         },
         {
           id: 8,
           name: 'Wolf Cap',
-          imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
+          imageUrl: '/images/ships/err.png',
           price: 14
         },
         {
           id: 9,
-          name: 'Blue Snapback',
-          imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-          price: 16
+          name: 'Anxarta',
+          imageUrl: '/images/ships/anxarta.png',
+          price: 32000
         }
       ]
     },
