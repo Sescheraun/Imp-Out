@@ -33,31 +33,31 @@ const SHOP_DATA = [
         {
           id: 5,
           name: 'Green Beanie',
-          imageUrl: '/images/ships/err.png',
+          imageUrl: '/images/ships/err.pnghttps://echoesandreflections.org/wp-content/uploads/2017/07/image-missing-md.png',
           price: 18
         },
         {
           id: 6,
           name: 'Palm Tree Cap',
-          imageUrl: '/images/ships/err.png',
+          imageUrl: 'https://echoesandreflections.org/wp-content/uploads/2017/07/image-missing-md.png',
           price: 14
         },
         {
           id: 7,
           name: 'Red Beanie',
-          imageUrl: '/images/ships/err.png',
+          imageUrl: 'https://echoesandreflections.org/wp-content/uploads/2017/07/image-missing-md.png',
           price: 18
         },
         {
           id: 8,
           name: 'Wolf Cap',
-          imageUrl: '/images/ships/err.png',
+          imageUrl: 'https://echoesandreflections.org/wp-content/uploads/2017/07/image-missing-md.png',
           price: 14
         },
         {
           id: 9,
           name: 'Anxarta',
-          imageUrl: '/images/ships/anxarta.png',
+          imageUrl: 'https://i.pinimg.com/originals/6d/bf/58/6dbf58774bbd4c41a173c37b4eaf9951.jpg',
           price: 32000
         }
       ]
@@ -69,26 +69,26 @@ const SHOP_DATA = [
       items: [
         {
           id: 10,
-          name: 'Adidas NMD',
-          imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+          name: 'R2 Unit',
+          imageUrl: 'https://i.pinimg.com/originals/70/eb/32/70eb32df8f24079546d76b6248cebcb9.jpg',
           price: 220
         },
         {
           id: 11,
-          name: 'Adidas Yeezy',
-          imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
+          name: 'Mouse',
+          imageUrl: 'https://img2.cgtrader.com/items/2233651/3a09800b3f/mse-6-mouse-droid-star-wars-3d-model-animated-obj-fbx.jpg',
           price: 280
         },
         {
           id: 12,
-          name: 'Black Converse',
-          imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
+          name: 'Simon',
+          imageUrl: 'https://lh3.googleusercontent.com/proxy/ogKxoWt287PojK1cjkr_gDbMlQG2IMOmOcHY6b-XEoZQR6T95M0PuehcC2jfA8sCju-iuCebqZqxv7GSpLlNQZI6AiiLn8svfMCTCJQ-Pjr13EWzk-rwoX1K86V0-akXucA7',
           price: 110
         },
         {
           id: 13,
-          name: 'Nike White AirForce',
-          imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
+          name: 'Tri-droid',
+          imageUrl: 'https://cdn.rebrickable.com/media/thumbs/mocs/moc-57702.jpg/1000x800.jpg',
           price: 160
         },
         {
